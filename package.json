@@ -30,5 +30,8 @@
         "webpack-cli": "^4.8.0",
         "webpack-dev-server": "^4.3.1"
     },
-    "dependencies": {}
+    "dependencies": {
+        "@luma.gl/engine": "^8.5.10",
+        "@luma.gl/webgl": "^8.5.10"
+    }
 }
